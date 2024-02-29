@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "",
+    "title": "",
+    "message": "",
+    "user": {
+      "id": "",
+      "name": "",
+      "image": ""
+    },
+    "contents": [],
+    "comments": [
+      {
+        "id": "",
+        "message": "",
+        "createdAt": "",
+        "updatedAt": "",
+        "user": {
+          "id": "",
+          "name": "",
+          "image": ""
+        },
+        "likes": [
+          {
+            "id": "",
+            "name": "",
+            "image": ""
+          }
+        ],
+        "fatherId": ""
+      }
+    ],
+    "likes": [
+      {
+        "id": "",
+        "name": "",
+        "image": ""
+      }
+    ],
+    "destiny": {
+      "to": "",
+      "companies": [],
+      "services": [],
+      "groups": []
+    },
+    "createdAt": "",
+    "updatedAt": "",
+    "deletedAt": ""
+  }
+]
